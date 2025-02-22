@@ -161,10 +161,10 @@ const Navbar: React.FC = () => {
             </div>
             
             <div className="hidden md:flex items-center space-x-4">
-              <Link href="https://t.me/bondle_xyz" target="_blank" className="text-gray-300 hover:text-white">
+              <Link href="https://t.me/bondlefun" target="_blank" className="text-gray-300 hover:text-white">
                 Telegram
               </Link>
-              <Link href="https://x.com/bondlexyz" target="_blank" className="text-gray-300 hover:text-white">
+              <Link href="https://x.com/bondlefun" target="_blank" className="text-gray-300 hover:text-white">
                 Twitter
               </Link>
               <button 
